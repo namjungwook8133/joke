@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/namjungwook8133/github.io/joke/static/css/main.353500ea.chunk.css",
-    "main.js": "/namjungwook8133/github.io/joke/static/js/main.0af4a6f8.chunk.js",
-    "main.js.map": "/namjungwook8133/github.io/joke/static/js/main.0af4a6f8.chunk.js.map",
-    "runtime-main.js": "/namjungwook8133/github.io/joke/static/js/runtime-main.db2c8aeb.js",
-    "runtime-main.js.map": "/namjungwook8133/github.io/joke/static/js/runtime-main.db2c8aeb.js.map",
-    "static/js/2.d714b0e0.chunk.js": "/namjungwook8133/github.io/joke/static/js/2.d714b0e0.chunk.js",
-    "static/js/2.d714b0e0.chunk.js.map": "/namjungwook8133/github.io/joke/static/js/2.d714b0e0.chunk.js.map",
-    "static/js/3.73159bd0.chunk.js": "/namjungwook8133/github.io/joke/static/js/3.73159bd0.chunk.js",
-    "static/js/3.73159bd0.chunk.js.map": "/namjungwook8133/github.io/joke/static/js/3.73159bd0.chunk.js.map",
+    "main.css": "/namjungwook8133/github.io/joke/static/css/main.a57a42a6.chunk.css",
+    "main.js": "/namjungwook8133/github.io/joke/static/js/main.8df01bd9.chunk.js",
+    "main.js.map": "/namjungwook8133/github.io/joke/static/js/main.8df01bd9.chunk.js.map",
+    "runtime-main.js": "/namjungwook8133/github.io/joke/static/js/runtime-main.10ece6a6.js",
+    "runtime-main.js.map": "/namjungwook8133/github.io/joke/static/js/runtime-main.10ece6a6.js.map",
+    "static/js/2.b509997d.chunk.js": "/namjungwook8133/github.io/joke/static/js/2.b509997d.chunk.js",
+    "static/js/2.b509997d.chunk.js.map": "/namjungwook8133/github.io/joke/static/js/2.b509997d.chunk.js.map",
     "index.html": "/namjungwook8133/github.io/joke/index.html",
-    "static/css/main.353500ea.chunk.css.map": "/namjungwook8133/github.io/joke/static/css/main.353500ea.chunk.css.map",
-    "static/js/2.d714b0e0.chunk.js.LICENSE.txt": "/namjungwook8133/github.io/joke/static/js/2.d714b0e0.chunk.js.LICENSE.txt",
+    "static/css/main.a57a42a6.chunk.css.map": "/namjungwook8133/github.io/joke/static/css/main.a57a42a6.chunk.css.map",
+    "static/js/2.b509997d.chunk.js.LICENSE.txt": "/namjungwook8133/github.io/joke/static/js/2.b509997d.chunk.js.LICENSE.txt",
     "static/media/박준혁.73aa17bb.jpeg": "/namjungwook8133/github.io/joke/static/media/박준혁.73aa17bb.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.db2c8aeb.js",
-    "static/js/2.d714b0e0.chunk.js",
-    "static/css/main.353500ea.chunk.css",
-    "static/js/main.0af4a6f8.chunk.js"
+    "static/js/runtime-main.10ece6a6.js",
+    "static/js/2.b509997d.chunk.js",
+    "static/css/main.a57a42a6.chunk.css",
+    "static/js/main.8df01bd9.chunk.js"
   ]
 }
