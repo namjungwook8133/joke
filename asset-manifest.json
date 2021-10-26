@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/joke/static/css/main.a57a42a6.chunk.css",
-    "main.js": "/joke/static/js/main.8df01bd9.chunk.js",
-    "main.js.map": "/joke/static/js/main.8df01bd9.chunk.js.map",
+    "main.js": "/joke/static/js/main.a4f6ae71.chunk.js",
+    "main.js.map": "/joke/static/js/main.a4f6ae71.chunk.js.map",
     "runtime-main.js": "/joke/static/js/runtime-main.45603c88.js",
     "runtime-main.js.map": "/joke/static/js/runtime-main.45603c88.js.map",
     "static/js/2.b509997d.chunk.js": "/joke/static/js/2.b509997d.chunk.js",
@@ -10,12 +10,12 @@
     "index.html": "/joke/index.html",
     "static/css/main.a57a42a6.chunk.css.map": "/joke/static/css/main.a57a42a6.chunk.css.map",
     "static/js/2.b509997d.chunk.js.LICENSE.txt": "/joke/static/js/2.b509997d.chunk.js.LICENSE.txt",
-    "static/media/박준혁.73aa17bb.jpeg": "/joke/static/media/박준혁.73aa17bb.jpeg"
+    "static/media/sexynam.87b1e8a4.jpeg": "/joke/static/media/sexynam.87b1e8a4.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.45603c88.js",
     "static/js/2.b509997d.chunk.js",
     "static/css/main.a57a42a6.chunk.css",
-    "static/js/main.8df01bd9.chunk.js"
+    "static/js/main.a4f6ae71.chunk.js"
   ]
 }
